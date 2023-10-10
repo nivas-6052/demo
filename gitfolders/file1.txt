@@ -1,3 +1,5 @@
 Hi Welcome to git
 this is the new line added 
 this is for checking
+working with vs code 
+how we can merge checking
