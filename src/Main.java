@@ -12,6 +12,7 @@ public class Main {
         str.add("hello");
         str.add("welcome");
         str.add("world");
+         str.add("world");
         List<String> str1= str.subList(0,2);
 //        String[] newValueArray = str.subList(0,2).toArray(new String[0]);
         String newValuesJoined = String.join(",", str1);
