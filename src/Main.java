@@ -20,5 +20,6 @@ public class Main {
         System.out.println("value "+ newValuesJoined);
         str.add("world");stash 2
         str.add("world");commit 2
+        str.add("world");commit 3
     }
 }
