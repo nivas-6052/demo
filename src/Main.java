@@ -18,8 +18,8 @@ public class Main {
         String newValuesJoined = String.join(",", str1);
 
         System.out.println("value "+ newValuesJoined);
-        str.add("world");stash 2
-        str.add("world");commit 2
-        str.add("world");commit 3
+        str.add("world");modified 2
+        str.add("world");modified 2
+        str.add("world");modified 3
     }
 }
