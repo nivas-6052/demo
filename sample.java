@@ -8,5 +8,6 @@ public class sample {
         System.out.println("branch1Hi");
         System.out.println("main");
         System.out.println("main3");
+        System.out.println("main4");
     }
 }
