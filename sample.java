@@ -5,7 +5,7 @@ public class sample {
         System.out.println("hello");
         System.out.println("welcome");
         System.out.println("branch1welcome");
-       System.out.println("branch1Hi");
+        System.out.println("branch1Hi");
         System.out.println("main");
         System.out.println("main3");
     }
